@@ -1,5 +1,3 @@
-# Course Reflection
-
 ## What I Learned
 
 During this course, I learned the basics of GitHub, including:
