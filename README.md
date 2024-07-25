@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2nLlfjwu)
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -104,4 +105,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+* [GitHub community forum](https://github.communi
+
+
